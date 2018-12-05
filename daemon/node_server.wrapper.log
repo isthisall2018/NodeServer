@@ -1,0 +1,34 @@
+2018-12-03 19:47:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\demo\myapp\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\demo\myapp\main --log "node_server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-12-03 19:47:12 - Started 1216
+2018-12-03 20:46:35 - Stopping node_server.exe
+2018-12-03 20:46:35 - ProcessKill 1216
+2018-12-03 20:46:35 - Found child process: 9956 Name: conhost.exe
+2018-12-03 20:46:35 - Found child process: 7416 Name: node.exe
+2018-12-03 20:46:35 - Stopping process 9956
+2018-12-03 20:46:35 - Send SIGINT 9956
+2018-12-03 20:46:35 - SIGINT to 9956 failed - Killing as fallback
+2018-12-03 20:46:35 - Stopping process 7416
+2018-12-03 20:46:35 - Send SIGINT 7416
+2018-12-03 20:46:35 - SIGINT to 7416 failed - Killing as fallback
+2018-12-03 20:46:35 - Stopping process 1216
+2018-12-03 20:46:35 - Send SIGINT 1216
+2018-12-03 20:46:35 - SIGINT to 1216 failed - Killing as fallback
+2018-12-03 20:46:35 - Finished node_server.exe
+2018-12-03 22:55:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\demo\myapp\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\demo\myapp\main --log "node_server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-12-03 22:55:53 - Started 3768
+2018-12-05 23:01:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\demo\myapp\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\demo\myapp\main --log "node_server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-12-05 23:01:57 - Started 10140
+2018-12-05 23:03:17 - Stopping node_server.exe
+2018-12-05 23:03:17 - ProcessKill 10140
+2018-12-05 23:03:17 - Found child process: 1604 Name: conhost.exe
+2018-12-05 23:03:17 - Found child process: 12092 Name: node.exe
+2018-12-05 23:03:17 - Stopping process 1604
+2018-12-05 23:03:17 - Send SIGINT 1604
+2018-12-05 23:03:17 - SIGINT to 1604 failed - Killing as fallback
+2018-12-05 23:03:17 - Stopping process 12092
+2018-12-05 23:03:17 - Send SIGINT 12092
+2018-12-05 23:03:17 - SIGINT to 12092 failed - Killing as fallback
+2018-12-05 23:03:17 - Stopping process 10140
+2018-12-05 23:03:17 - Send SIGINT 10140
+2018-12-05 23:03:17 - SIGINT to 10140 failed - Killing as fallback
+2018-12-05 23:03:17 - Finished node_server.exe
